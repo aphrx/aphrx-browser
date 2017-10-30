@@ -1,0 +1,10 @@
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\bin\Debug\AphroBrowser.exe.config
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\bin\Debug\AphroBrowser.exe
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\bin\Debug\AphroBrowser.pdb
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\obj\Debug\AphroBrowser.csprojResolveAssemblyReference.cache
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\obj\Debug\AphroBrowser.Form1.resources
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\obj\Debug\AphroBrowser.Properties.Resources.resources
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\obj\Debug\AphroBrowser.csproj.GenerateResource.Cache
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\obj\Debug\AphroBrowser.csproj.CoreCompileInputs.cache
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\obj\Debug\AphroBrowser.exe
+C:\Users\100585138\source\repos\AphroBrowser\AphroBrowser\obj\Debug\AphroBrowser.pdb
